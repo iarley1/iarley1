@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&&vCenter=true&width=1000&lines=Olá+meu+nome+é+Iarley+Lopes+!🙂)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
+<div style="display: flex">
   <a href="https://github.com/anuraghazra/github-readme-stats">
      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iarley1&theme=radical" />
   </a>
