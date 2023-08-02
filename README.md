@@ -2,12 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&&vCenter=true&width=1000&lines=Olá+meu+nome+é+Iarley+Lopes+!🙂)](https://git.io/typing-svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iarley1&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iarley1&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+<div style="display: inline_block"><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iarley1&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iarley1&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
